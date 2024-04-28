@@ -1,0 +1,27 @@
+.bandera{
+    border: solid 2px;
+    width: 80%;
+    height: 80vh;
+    display: flex;
+}
+.arriba{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background: yellow;
+}
+.medio {
+    width: 100%;
+    height: 65%;
+    display: flex;
+    flex-direction: column;
+    background: red;
+}
+.abajo {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    background: black;
+}
